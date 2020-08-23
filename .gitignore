@@ -1,0 +1,16 @@
+random/
+tf_ckptss/
+copy/
+practical1.mlx
+right.mlx
+figures/
+.ipynb_checkpoints/
+proj.m
+17356901_P1.zip
+17356901_P1/
+X_train.npy
+y_train.npy
+X_test.npy
+y_test.npy
+X_val.npy
+y_val.npy
